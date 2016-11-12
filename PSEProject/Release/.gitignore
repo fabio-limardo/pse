@@ -1,0 +1,12 @@
+/componentImplementation/
+/core/
+/libraries/
+/makefile
+/messagingService/
+/mock/
+/objects.mk
+/scheduler/
+/services/
+/sources.mk
+/subdir.mk
+/taskImplementation/
